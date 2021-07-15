@@ -1,4 +1,4 @@
-package homework2; //Problem 2
+//Problem 2
 import java.util.*;
 /*
  * Write an application that prompts the user for three student 
