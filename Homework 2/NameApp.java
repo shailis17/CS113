@@ -1,4 +1,4 @@
-package homework2; //Problem #1
+//Problem #1
 import java.util.*;
 /*
  * Write an application called NameApp that prompts for and reads the 
